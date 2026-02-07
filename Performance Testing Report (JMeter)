@@ -1,0 +1,30 @@
+Tool Used
+
+Apache JMeter
+
+Objective
+
+To evaluate application performance under load conditions.
+
+Test Scenario
+
+Virtual Users: 50
+
+Ramp-Up Time: 10 seconds
+
+Test Duration: 5 minutes
+
+Metrics Observed
+Metric	Result
+Average Response Time	1.8 seconds
+Error Rate	2%
+Throughput	Stable
+Observations
+
+Application handled normal load efficiently
+
+Slight delay observed during peak requests
+
+Conclusion & Recommendation
+
+The system performs well under moderate load. Performance can be improved by optimizing server response handling.
