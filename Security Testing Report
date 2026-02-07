@@ -1,0 +1,26 @@
+5. Security Testing Report 
+Objective
+
+To identify common security vulnerabilities in the application.
+
+Testing Type
+
+Manual security testing
+
+OWASP Top 10 (Basic level)
+
+Vulnerabilities Tested
+Vulnerability	Severity	Status
+SQL Injection	High	Not Found
+Cross-Site Scripting (XSS)	Medium	Found
+Broken Authentication	Low	Found
+Sample Finding
+
+Vulnerability: Reflected XSS
+Affected Area: Search input field
+Description: Script input executed in browser
+Suggested Fix: Input validation and output encoding
+
+Conclusion
+
+Basic vulnerabilities were identified and documented. Security testing should be integrated early in the development lifecycle.
