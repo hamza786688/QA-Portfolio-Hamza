@@ -1,0 +1,22 @@
+To document defects identified during manual and automation testing.
+
+Bug Summary
+Bug ID	Description	Severity	Status
+BUG_01	Error message not displayed on invalid login	Medium	Open
+BUG_02	UI alignment issue on dashboard	Low	Closed
+BUG_03	Logout button not responsive	High	Fixed
+Sample Bug Detail
+
+Bug ID: BUG_01
+Steps to Reproduce:
+
+Enter invalid username/password
+
+Click Login
+
+Expected Result: Error message displayed
+Actual Result: No message shown
+
+Conclusion
+
+Bugs were clearly documented with steps, severity, and status to support efficient resolution.
