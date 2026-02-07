@@ -1,0 +1,50 @@
+Sample Web Application – Automation Testing
+
+Tool Used
+
+Selenium WebDriver
+
+Java
+
+TestNG
+
+Chrome Browser
+
+Objective
+
+To validate core functionalities of the web application using automated test scripts and ensure stability after code changes.
+
+Test Scope
+
+Automated testing focused on:
+
+Login functionality
+
+Page navigation
+
+Basic UI validation
+
+Test Cases Automated
+Test Case ID	Description	Status
+TC_AUTO_01	Valid login	Pass
+TC_AUTO_02	Invalid login	Pass
+TC_AUTO_03	Logout functionality	Pass
+Execution Details
+
+Browser: Chrome
+
+OS: Windows 10
+
+Execution Type: Local execution
+
+Result Summary
+
+Total Tests: 3
+
+Passed: 3
+
+Failed: 0
+
+Conclusion
+
+Basic Selenium scripts were successfully executed, validating critical application functionality. Automation can be integrated into CI/CD pipelines for regression testing.
