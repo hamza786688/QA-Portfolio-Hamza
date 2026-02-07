@@ -1,0 +1,33 @@
+
+Sample Web Application – Manual Testing
+
+Objective
+
+To ensure the application meets functional requirements through detailed manual test execution.
+
+Test Coverage
+
+Modules tested:
+
+Login
+
+Dashboard
+
+User Profile
+
+Test Case Summary
+Type	Count
+Functional	25
+Regression	15
+Smoke	10
+Total	50
+Sample Test Case
+
+Test Case ID: TC_LOGIN_01
+Scenario: Login with valid credentials
+Expected Result: User should be redirected to dashboard
+Status: Pass
+
+Conclusion
+
+The application performed as expected for core functionalities with minor UI issues logged separately.
